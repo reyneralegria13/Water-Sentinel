@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WaterSentinel</string>
+
+    <!-- Dashboard -->
+    <string name="umidade">Umidade</string>
+    <string name="riscoAlagamento">Risco de alagamento</string>
+</resources>
