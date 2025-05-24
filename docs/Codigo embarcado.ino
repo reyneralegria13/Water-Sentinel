@@ -9,9 +9,6 @@
 // ---------------------------------------------------------------------
 // Configurações do Firebase e WiFi / NTP
 // ---------------------------------------------------------------------
-#define FIREBASE_HOST "water-sentinel-app-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "dWZ1mjIRXTwzwiYlDhqKOmsxt7P2sizzoDk5FiIZ"
-
 
 const char* ssid     = "ICET-WIFI-D";
 const char* password = "1ucf34tm";
